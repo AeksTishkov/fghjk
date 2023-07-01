@@ -95,7 +95,7 @@ def cntinu():
 Main window
 '''
 scr = turtle.Screen()
-scr.bgcolor('black')
+scr.bgcolor('pink')
 scr.title('ping pong')
 scr.setup(550,550)
 scr.tracer(0)
